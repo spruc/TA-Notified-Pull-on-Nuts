@@ -19,3 +19,4 @@ This specification describes how to use the Twiin Technical Agreement (TTA) when
 - All references to TTA FHIR - Authentication & Authorization have to be ignored and replaced by the information provided in this document
 - All references to TTA FHIR - Addressing have to be ignored and replaced by the information provided in this document
 
+# Test
